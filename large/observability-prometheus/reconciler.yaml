@@ -5,7 +5,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 30s
-  url: "https://github.com/microsoft/kalypso-svc-gitops"
+  url: "https://github.com/temporg235/testgitops-svc-gitops"
   ref:
     branch: "dev"
   secretRef:
